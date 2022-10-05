@@ -3,7 +3,7 @@ Nama    : Mukhammad Zaidan Abdulloh
 
 NIM     : 200411100104
 
-Kelas   : Penambangan Data C
+Kelas   : Penambangan Data 5C
 
 
 Pengumpulan tugas Penambangan Data C :
