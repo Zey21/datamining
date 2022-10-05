@@ -1,9 +1,7 @@
 # Welcome to your Jupyter Book
-Nama    : Mukhammad Zaidan Abdulloh \n
-
-NIM     : 200411100104 \n
-
-Kelas   : Penambangan Data C \n
+Nama    : Mukhammad Zaidan Abdulloh
+NIM     : 200411100104
+Kelas   : Penambangan Data C
 
 Pengumpulan tugas Penambangan Data C :
 
